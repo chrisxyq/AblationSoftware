@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e5c9091-635f-4fe6-b4f3-2758678c458f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xyq_class/paint/ui_trans_py.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xyq_class/paint/PaintUi.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xyq_class/paint/Paint.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ui_trans_py.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mainui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1603">
+              <caret line="1264" column="26" lean-forward="true" selection-start-line="1264" selection-start-column="26" selection-end-line="1264" selection-end-column="26" />
+              <folding>
+                <element signature="e#195#237#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>VTK</find>
+      <find>self.baseimg</find>
+      <find>car_to_ct</find>
+      <find>删除前的</find>
+      <find>get_dist</find>
+      <find>推拉式进针与皮肤没有交点</find>
+      <find>car</find>
+      <find>根据聚类结果求解固定点完成</find>
+      <find>intersect</find>
+      <find>cylind</find>
+      <find>intersec</find>
+      <find>md.needlelist</find>
+      <find>print</find>
+      <find>cvtoqt</find>
+      <find>matplotlib</find>
+      <find>setBold(False)</find>
+      <find>setPointSize(10)</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\thesis_task\thesis_software\newsoftware</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/class/widgetutils/SliderUtils.py" />
+        <option value="$PROJECT_DIR$/class/auto2/baseobj/Centroid.py" />
+        <option value="$PROJECT_DIR$/class/auto2/obj/Omega.py" />
+        <option value="$PROJECT_DIR$/class/auto2/obj/Fcom.py" />
+        <option value="$PROJECT_DIR$/2.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/class/widgetutils/LabelUtils.py" />
+        <option value="$PROJECT_DIR$/class/agent/ElliVTKAgent.py" />
+        <option value="$PROJECT_DIR$/class/widgetutils/ComboBoxUtils.py" />
+        <option value="$PROJECT_DIR$/class/auto2/objagent/FcomAgent.py" />
+        <option value="$PROJECT_DIR$/class/auto2/obj/Auto2Pareto.py" />
+        <option value="$PROJECT_DIR$/class/auto2/objagent/FixedUpdater.py" />
+        <option value="$PROJECT_DIR$/class/objutils/BaseVTKUtils.py" />
+        <option value="$PROJECT_DIR$/class/widgetutils/LineEditUtils.py" />
+        <option value="$PROJECT_DIR$/class/obj/Elli.py" />
+        <option value="$PROJECT_DIR$/class/objutils/ElliListUtils.py" />
+        <option value="$PROJECT_DIR$/class/obj/Needle.py" />
+        <option value="$PROJECT_DIR$/class/agent/CvToQtAgent.py" />
+        <option value="$PROJECT_DIR$/class/auto2/obj/Auto2Fixed.py" />
+        <option value="$PROJECT_DIR$/class/auto2/obj/CentroidsRes.py" />
+        <option value="$PROJECT_DIR$/class/auto2/objagent/FixedFeaAgent.py" />
+        <option value="$PROJECT_DIR$/class/auto2/objagent/FixedMover.py" />
+        <option value="$PROJECT_DIR$/class/objutils/NeedleUtils.py" />
+        <option value="$PROJECT_DIR$/class/widgetutils/ThreeDUtils.py" />
+        <option value="$PROJECT_DIR$/src/HandSlots.py" />
+        <option value="$PROJECT_DIR$/src/Auto2Slots.py" />
+        <option value="$PROJECT_DIR$/src/Auto1Slots.py" />
+        <option value="$PROJECT_DIR$/src/OpenAndLoad.py" />
+        <option value="$PROJECT_DIR$/src/ParaSlots.py" />
+        <option value="$PROJECT_DIR$/class/objutils/NdlListUtils.py" />
+        <option value="$PROJECT_DIR$/class/obj/Par.py" />
+        <option value="$PROJECT_DIR$/class/没用/PainterTools.py" />
+        <option value="$PROJECT_DIR$/class/auto2/objagent/FixedRegister.py" />
+        <option value="$PROJECT_DIR$/class/auto2/optimize/MyProblem.py" />
+        <option value="$PROJECT_DIR$/class/auto2/objagent/FixedChecker.py" />
+        <option value="$PROJECT_DIR$/class/auto2/objagent/CentroidsResAgent.py" />
+        <option value="$PROJECT_DIR$/class/scrollct/CtGetter.py" />
+        <option value="$PROJECT_DIR$/class/auto2/baseobj/Pareto.py" />
+        <option value="$PROJECT_DIR$/class/auto2/obj/OmegaCore.py" />
+        <option value="$PROJECT_DIR$/class/auto2/baseobj/Fixed.py" />
+        <option value="$PROJECT_DIR$/class/auto2/optimize/MOEA.py" />
+        <option value="$PROJECT_DIR$/class/scrollct/Scroller.py" />
+        <option value="$PROJECT_DIR$/class/paint/Paint.py" />
+        <option value="$PROJECT_DIR$/../dzq_test/main.py" />
+        <option value="$PROJECT_DIR$/mainui.py" />
+        <option value="$PROJECT_DIR$/xyq_class/paint/Paint.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/QCandyUi/CandyWindow.py" />
+        <option value="$PROJECT_DIR$/QCandyUi/WindowWithTitleBar.py" />
+        <option value="$PROJECT_DIR$/QCandyUi/Titlebar.py" />
+        <option value="$PROJECT_DIR$/QCandyUi/simple_qss.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="7" />
+    <option name="y" value="217" />
+    <option name="width" value="1620" />
+    <option name="height" value="720" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="newsoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newsoftware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newsoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="xyq_class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newsoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="xyq_class" type="462c0819:PsiDirectoryNode" />
+              <item name="paint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\thesis_task\thesis_software\newsoftware" />
+      <recent name="E:\thesis_task\thesis_software\newsoftware\class\auto2\obj" />
+      <recent name="E:\thesis_task\thesis_software\newsoftware\class\auto2\objagent" />
+      <recent name="E:\thesis_task\thesis_software\newsoftware\class\auto2\baseobj" />
+      <recent name="E:\thesis_task\thesis_software\newsoftware\class\auto2\optimize" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\thesis_task\thesis_software\newsoftware\src" />
+      <recent name="E:\thesis_task\thesis_software\newsoftware\class\agent" />
+      <recent name="E:\thesis_task\thesis_software\newsoftware\class\obj" />
+      <recent name="E:\thesis_task\thesis_software\newsoftware\class\objutils" />
+      <recent name="E:\thesis_task\thesis_software\newsoftware\class\没用" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Auto2Slots" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newsoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Auto2Slots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Needle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newsoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class/obj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/obj/Needle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newsoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ui_trans_py (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newsoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xyq_class/paint" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xyq_class/paint/ui_trans_py.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ui_trans_py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newsoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ui_trans_py.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.ui_trans_py (1)" />
+        <item itemvalue="Python.ui_trans_py" />
+        <item itemvalue="Python.Needle" />
+        <item itemvalue="Python.Auto2Slots" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e5c9091-635f-4fe6-b4f3-2758678c458f" name="Default Changelist" comment="" />
+      <created>1597234329791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597234329791</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20343462" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.31541726" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26308346" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32390383" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Pylint" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2007926" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.31541726" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18104668" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3026874" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Pylint" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Auto1Slots.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Auto1Slots.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Auto1Slots.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Auto1Slots.py</url>
+          <line>122</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Auto1Slots.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Auto2Slots.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Auto2Slots.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Auto2Slots.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Auto2Slots.py</url>
+          <line>122</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Auto2Slots.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class/agent/CvToQtAgent.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class/auto2/objagent/OmegaAgent.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ParaSlots.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/class/auto2/objagent/FixedMover.py" />
+    <entry file="file://$PROJECT_DIR$/class/auto2/objagent/FixedUpdater.py" />
+    <entry file="file://$PROJECT_DIR$/class/auto2/objagent/OmegaAgent.py" />
+    <entry file="file://$PROJECT_DIR$/class/auto2/ObjToString.py" />
+    <entry file="file://$PROJECT_DIR$/class/obj/CaseInfo.py" />
+    <entry file="file://$PROJECT_DIR$/class/obj/Elli.py" />
+    <entry file="file://$PROJECT_DIR$/class/obj/Fea.py" />
+    <entry file="file://$PROJECT_DIR$/class/obj/Needle.py" />
+    <entry file="file://$PROJECT_DIR$/class/objutils/DBUtils.py" />
+    <entry file="file://$PROJECT_DIR$/class/objutils/ElliListUtils.py" />
+    <entry file="file://$PROJECT_DIR$/class/objutils/NeedleUtils.py" />
+    <entry file="file://$PROJECT_DIR$/class/objutils/ObjdicManager.py" />
+    <entry file="file://$PROJECT_DIR$/class/scrollct/CtMarker.py" />
+    <entry file="file://$PROJECT_DIR$/class/widgetutils/LabelUtils.py" />
+    <entry file="file://$PROJECT_DIR$/class/widgetutils/LineEditUtils.py" />
+    <entry file="file://$PROJECT_DIR$/class/widgetutils/ComboBoxUtils.py" />
+    <entry file="file://$PROJECT_DIR$/class/widgetutils/ThreeDUtils.py" />
+    <entry file="file://$PROJECT_DIR$/src/Auto1Slots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="36" column="15" lean-forward="true" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenAndLoad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+          <folding>
+            <element signature="e#150#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParaSlots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding>
+            <element signature="e#161#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/objutils/NdlListUtils.py" />
+    <entry file="file://$PROJECT_DIR$/src/Auto2Slots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2368">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding>
+            <element signature="e#150#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/obj/Par.py" />
+    <entry file="file://$PROJECT_DIR$/class/没用/PainterTools.py" />
+    <entry file="file://$PROJECT_DIR$/class/auto2/objagent/FixedRegister.py" />
+    <entry file="file://$PROJECT_DIR$/class/auto2/baseobj/Fixed.py" />
+    <entry file="file://$PROJECT_DIR$/class/auto2/objagent/CentroidsResAgent.py" />
+    <entry file="file://$PROJECT_DIR$/class/scrollct/CtGetter.py" />
+    <entry file="file://$PROJECT_DIR$/src/HandSlots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/objutils/BaseVTKUtils.py" />
+    <entry file="file://$PROJECT_DIR$/class/paint/Paint.py" />
+    <entry file="file://$PROJECT_DIR$/class/agent/CvToQtAgent.py" />
+    <entry file="file://$PROJECT_DIR$/class/scrollct/Scroller.py" />
+    <entry file="file://$PROJECT_DIR$/class/auto2/baseobj/Pareto.py" />
+    <entry file="file://$PROJECT_DIR$/class/auto2/optimize/MOEA.py" />
+    <entry file="file://$PROJECT_DIR$/class/auto2/obj/OmegaCore.py" />
+    <entry file="file://$PROJECT_DIR$/class/auto2/optimize/MyProblem.py" />
+    <entry file="file://$PROJECT_DIR$/class/auto2/objagent/FixedChecker.py" />
+    <entry file="file://$PROJECT_DIR$/../dzq_test/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/医工软硬件交接/4.手术规划软件/xyq_main/QCandyUi/CandyWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyq_class/paint/PaintUi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui_trans_py.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QCandyUi/QCandyUi-master/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyq_class/paint/Paint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyq_class/paint/ui_trans_py.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QCandyUi/Titlebar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QCandyUi/WindowWithTitleBar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="50" column="34" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="43" />
+          <folding>
+            <element signature="e#48#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QCandyUi/CandyWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QCandyUi/simple_qss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="50" column="4" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1603">
+          <caret line="1264" column="26" lean-forward="true" selection-start-line="1264" selection-start-column="26" selection-end-line="1264" selection-end-column="26" />
+          <folding>
+            <element signature="e#195#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
